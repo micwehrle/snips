@@ -1,6 +1,8 @@
 snips
 =====
 
+Look here: <https://github.com/micwehrle/snips/wiki>
+
 # Tips & Tricks
 
 ## find
